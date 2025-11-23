@@ -1,0 +1,9 @@
+E:\c#_Project\Activity_S_R\Activity_S_R\bin\Debug\Activity_S_R.exe.config
+E:\c#_Project\Activity_S_R\Activity_S_R\bin\Debug\Activity_S_R.exe
+E:\c#_Project\Activity_S_R\Activity_S_R\bin\Debug\Activity_S_R.pdb
+E:\c#_Project\Activity_S_R\Activity_S_R\obj\Debug\Activity_S_R.csprojAssemblyReference.cache
+E:\c#_Project\Activity_S_R\Activity_S_R\obj\Debug\Activity_S_R.FrmRegistration.resources
+E:\c#_Project\Activity_S_R\Activity_S_R\obj\Debug\Activity_S_R.Properties.Resources.resources
+E:\c#_Project\Activity_S_R\Activity_S_R\obj\Debug\Activity_S_R.csproj.GenerateResource.cache
+E:\c#_Project\Activity_S_R\Activity_S_R\obj\Debug\Activity_S_R.exe
+E:\c#_Project\Activity_S_R\Activity_S_R\obj\Debug\Activity_S_R.pdb
